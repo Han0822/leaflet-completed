@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="data" id="data">
+	<SimpleField name="Province" type="string"></SimpleField>
+	<SimpleField name="gdp_2014" type="string"></SimpleField>
+	<SimpleField name="gdp_2013" type="string"></SimpleField>
+	<SimpleField name="gdp_2012" type="string"></SimpleField>
+	<SimpleField name="gdp_2011" type="string"></SimpleField>
+	<SimpleField name="gdp_2010" type="string"></SimpleField>
+	<SimpleField name="gdp_2009" type="string"></SimpleField>
+	<SimpleField name="gdp_2008" type="string"></SimpleField>
+	<SimpleField name="gdp_2007" type="string"></SimpleField>
+	<SimpleField name="gdp_2006" type="string"></SimpleField>
+	<SimpleField name="gdp_2005" type="string"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="color" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="precision" type="string"></SimpleField>
+</Schema>
+<Folder><name>data</name>
+  <Placemark>
+	<name>beijing</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">beijing</SimpleData>
+		<SimpleData name="gdp_2014">?21,330.83</SimpleData>
+		<SimpleData name="gdp_2013">?19,800.81</SimpleData>
+		<SimpleData name="gdp_2012">?17,879.40</SimpleData>
+		<SimpleData name="gdp_2011">?16,251.93</SimpleData>
+		<SimpleData name="gdp_2010">?14,113.58</SimpleData>
+		<SimpleData name="gdp_2009">?12,153.03</SimpleData>
+		<SimpleData name="gdp_2008">?11,115.00</SimpleData>
+		<SimpleData name="gdp_2007">?9,846.81</SimpleData>
+		<SimpleData name="gdp_2006">?8,117.78</SimpleData>
+		<SimpleData name="gdp_2005">?6,969.52</SimpleData>
+		<SimpleData name="latitude">40.190632</SimpleData>
+		<SimpleData name="longitude">116.412144</SimpleData>
+		<SimpleData name="desc">Beijing, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116.412144,40.190632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>tianjin</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">tianjin</SimpleData>
+		<SimpleData name="gdp_2014">?15,726.93</SimpleData>
+		<SimpleData name="gdp_2013">?14,442.01</SimpleData>
+		<SimpleData name="gdp_2012">?12,893.88</SimpleData>
+		<SimpleData name="gdp_2011">?11,307.28</SimpleData>
+		<SimpleData name="gdp_2010">?9,224.46</SimpleData>
+		<SimpleData name="gdp_2009">?7,521.85</SimpleData>
+		<SimpleData name="gdp_2008">?6,719.01</SimpleData>
+		<SimpleData name="gdp_2007">?5,252.76</SimpleData>
+		<SimpleData name="gdp_2006">?4,462.74</SimpleData>
+		<SimpleData name="gdp_2005">?3,905.64</SimpleData>
+		<SimpleData name="latitude">39.303262</SimpleData>
+		<SimpleData name="longitude">117.416364</SimpleData>
+		<SimpleData name="desc">Tianjin, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>117.416364,39.303262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>hebei</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">hebei</SimpleData>
+		<SimpleData name="gdp_2014">?29,421.15</SimpleData>
+		<SimpleData name="gdp_2013">?28,442.95</SimpleData>
+		<SimpleData name="gdp_2012">?26,575.01</SimpleData>
+		<SimpleData name="gdp_2011">?24,515.76</SimpleData>
+		<SimpleData name="gdp_2010">?20,394.26</SimpleData>
+		<SimpleData name="gdp_2009">?17,235.48</SimpleData>
+		<SimpleData name="gdp_2008">?16,011.97</SimpleData>
+		<SimpleData name="gdp_2007">?13,607.32</SimpleData>
+		<SimpleData name="gdp_2006">?11,467.60</SimpleData>
+		<SimpleData name="gdp_2005">?10,012.11</SimpleData>
+		<SimpleData name="latitude">39</SimpleData>
+		<SimpleData name="longitude">116</SimpleData>
+		<SimpleData name="desc">Hebei, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116,39</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>shanxi</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">shanxi</SimpleData>
+		<SimpleData name="gdp_2014">?12,761.49</SimpleData>
+		<SimpleData name="gdp_2013">?12,665.25</SimpleData>
+		<SimpleData name="gdp_2012">?12,112.83</SimpleData>
+		<SimpleData name="gdp_2011">?11,237.55</SimpleData>
+		<SimpleData name="gdp_2010">?9,200.86</SimpleData>
+		<SimpleData name="gdp_2009">?7,358.31</SimpleData>
+		<SimpleData name="gdp_2008">?7,315.40</SimpleData>
+		<SimpleData name="gdp_2007">?6,024.45</SimpleData>
+		<SimpleData name="gdp_2006">?4,878.61</SimpleData>
+		<SimpleData name="gdp_2005">?4,230.53</SimpleData>
+		<SimpleData name="latitude">37</SimpleData>
+		<SimpleData name="longitude">112</SimpleData>
+		<SimpleData name="desc">Shanxi, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>112,37</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>neimenggu</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">neimenggu</SimpleData>
+		<SimpleData name="gdp_2014">?17,770.19</SimpleData>
+		<SimpleData name="gdp_2013">?16,916.50</SimpleData>
+		<SimpleData name="gdp_2012">?15,880.58</SimpleData>
+		<SimpleData name="gdp_2011">?14,359.88</SimpleData>
+		<SimpleData name="gdp_2010">?11,672.00</SimpleData>
+		<SimpleData name="gdp_2009">?9,740.25</SimpleData>
+		<SimpleData name="gdp_2008">?8,496.20</SimpleData>
+		<SimpleData name="gdp_2007">?6,423.18</SimpleData>
+		<SimpleData name="gdp_2006">?4,944.25</SimpleData>
+		<SimpleData name="gdp_2005">?3,905.03</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>liaoning</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">liaoning</SimpleData>
+		<SimpleData name="gdp_2014">?28,626.58</SimpleData>
+		<SimpleData name="gdp_2013">?27,213.22</SimpleData>
+		<SimpleData name="gdp_2012">?24,846.43</SimpleData>
+		<SimpleData name="gdp_2011">?22,226.70</SimpleData>
+		<SimpleData name="gdp_2010">?18,457.27</SimpleData>
+		<SimpleData name="gdp_2009">?15,212.49</SimpleData>
+		<SimpleData name="gdp_2008">?13,668.58</SimpleData>
+		<SimpleData name="gdp_2007">?11,164.30</SimpleData>
+		<SimpleData name="gdp_2006">?9,304.52</SimpleData>
+		<SimpleData name="gdp_2005">?8,047.26</SimpleData>
+		<SimpleData name="latitude">40.99752</SimpleData>
+		<SimpleData name="longitude">122.995547</SimpleData>
+		<SimpleData name="desc">Liaoning, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>122.995547,40.99752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>jilin</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">jilin</SimpleData>
+		<SimpleData name="gdp_2014">?13,803.14</SimpleData>
+		<SimpleData name="gdp_2013">?13,046.40</SimpleData>
+		<SimpleData name="gdp_2012">?11,939.24</SimpleData>
+		<SimpleData name="gdp_2011">?10,568.83</SimpleData>
+		<SimpleData name="gdp_2010">?8,667.58</SimpleData>
+		<SimpleData name="gdp_2009">?7,278.75</SimpleData>
+		<SimpleData name="gdp_2008">?6,426.10</SimpleData>
+		<SimpleData name="gdp_2007">?5,284.69</SimpleData>
+		<SimpleData name="gdp_2006">?4,275.12</SimpleData>
+		<SimpleData name="gdp_2005">?3,620.27</SimpleData>
+		<SimpleData name="latitude">42.999503</SimpleData>
+		<SimpleData name="longitude">125.981605</SimpleData>
+		<SimpleData name="desc">Jilin, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>125.981605,42.999503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>heilongjiang</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">heilongjiang</SimpleData>
+		<SimpleData name="gdp_2014">?15,039.38</SimpleData>
+		<SimpleData name="gdp_2013">?14,454.91</SimpleData>
+		<SimpleData name="gdp_2012">?13,691.58</SimpleData>
+		<SimpleData name="gdp_2011">?12,582.00</SimpleData>
+		<SimpleData name="gdp_2010">?10,368.60</SimpleData>
+		<SimpleData name="gdp_2009">?8,587.00</SimpleData>
+		<SimpleData name="gdp_2008">?8,314.37</SimpleData>
+		<SimpleData name="gdp_2007">?7,104.00</SimpleData>
+		<SimpleData name="gdp_2006">?6,211.80</SimpleData>
+		<SimpleData name="gdp_2005">?5,513.70</SimpleData>
+		<SimpleData name="latitude">48.000005</SimpleData>
+		<SimpleData name="longitude">127.999992</SimpleData>
+		<SimpleData name="desc">Heilongjiang, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>127.999992,48.000005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>shanghai</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">shanghai</SimpleData>
+		<SimpleData name="gdp_2014">?23,567.70</SimpleData>
+		<SimpleData name="gdp_2013">?21,818.15</SimpleData>
+		<SimpleData name="gdp_2012">?20,181.72</SimpleData>
+		<SimpleData name="gdp_2011">?19,195.69</SimpleData>
+		<SimpleData name="gdp_2010">?17,165.98</SimpleData>
+		<SimpleData name="gdp_2009">?15,046.45</SimpleData>
+		<SimpleData name="gdp_2008">?14,069.86</SimpleData>
+		<SimpleData name="gdp_2007">?12,494.01</SimpleData>
+		<SimpleData name="gdp_2006">?10,572.24</SimpleData>
+		<SimpleData name="gdp_2005">?9,247.66</SimpleData>
+		<SimpleData name="latitude">31.232274</SimpleData>
+		<SimpleData name="longitude">121.469175</SimpleData>
+		<SimpleData name="desc">Shanghai, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.469175,31.232274</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>jiangsu</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">jiangsu</SimpleData>
+		<SimpleData name="gdp_2014">?65,088.32</SimpleData>
+		<SimpleData name="gdp_2013">?59,753.37</SimpleData>
+		<SimpleData name="gdp_2012">?54,058.22</SimpleData>
+		<SimpleData name="gdp_2011">?49,110.27</SimpleData>
+		<SimpleData name="gdp_2010">?41,425.48</SimpleData>
+		<SimpleData name="gdp_2009">?34,457.30</SimpleData>
+		<SimpleData name="gdp_2008">?30,981.98</SimpleData>
+		<SimpleData name="gdp_2007">?26,018.48</SimpleData>
+		<SimpleData name="gdp_2006">?21,742.05</SimpleData>
+		<SimpleData name="gdp_2005">?18,598.69</SimpleData>
+		<SimpleData name="latitude">33</SimpleData>
+		<SimpleData name="longitude">120</SimpleData>
+		<SimpleData name="desc">Jiangsu, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120,33</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>anhui</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">anhui</SimpleData>
+		<SimpleData name="gdp_2014">?40,173.03</SimpleData>
+		<SimpleData name="gdp_2013">?37,756.58</SimpleData>
+		<SimpleData name="gdp_2012">?34,665.33</SimpleData>
+		<SimpleData name="gdp_2011">?32,318.85</SimpleData>
+		<SimpleData name="gdp_2010">?27,722.31</SimpleData>
+		<SimpleData name="gdp_2009">?22,990.35</SimpleData>
+		<SimpleData name="gdp_2008">?21,462.69</SimpleData>
+		<SimpleData name="gdp_2007">?18,753.73</SimpleData>
+		<SimpleData name="gdp_2006">?15,718.47</SimpleData>
+		<SimpleData name="gdp_2005">?13,417.68</SimpleData>
+		<SimpleData name="latitude">32</SimpleData>
+		<SimpleData name="longitude">117</SimpleData>
+		<SimpleData name="desc">Anhui, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>117,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>chongqing</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">chongqing</SimpleData>
+		<SimpleData name="gdp_2014">?14,262.60</SimpleData>
+		<SimpleData name="gdp_2013">?12,783.26</SimpleData>
+		<SimpleData name="gdp_2012">?11,409.60</SimpleData>
+		<SimpleData name="gdp_2011">?10,011.37</SimpleData>
+		<SimpleData name="gdp_2010">?7,925.58</SimpleData>
+		<SimpleData name="gdp_2009">?6,530.01</SimpleData>
+		<SimpleData name="gdp_2008">?5,793.66</SimpleData>
+		<SimpleData name="gdp_2007">?4,676.13</SimpleData>
+		<SimpleData name="gdp_2006">?3,907.23</SimpleData>
+		<SimpleData name="gdp_2005">?3,467.72</SimpleData>
+		<SimpleData name="latitude">30.05518</SimpleData>
+		<SimpleData name="longitude">107.874871</SimpleData>
+		<SimpleData name="desc">Chongqing, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.874871,30.05518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>sichuan</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">sichuan</SimpleData>
+		<SimpleData name="gdp_2014">?28,536.66</SimpleData>
+		<SimpleData name="gdp_2013">?26,392.07</SimpleData>
+		<SimpleData name="gdp_2012">?23,872.80</SimpleData>
+		<SimpleData name="gdp_2011">?21,026.68</SimpleData>
+		<SimpleData name="gdp_2010">?17,185.48</SimpleData>
+		<SimpleData name="gdp_2009">?14,151.28</SimpleData>
+		<SimpleData name="gdp_2008">?12,601.23</SimpleData>
+		<SimpleData name="gdp_2007">?10,562.39</SimpleData>
+		<SimpleData name="gdp_2006">?8,690.24</SimpleData>
+		<SimpleData name="gdp_2005">?7,385.10</SimpleData>
+		<SimpleData name="latitude">30.5</SimpleData>
+		<SimpleData name="longitude">102.5</SimpleData>
+		<SimpleData name="desc">Sichuan, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>102.5,30.5</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>guizhou</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">guizhou</SimpleData>
+		<SimpleData name="gdp_2014">?9,266.39</SimpleData>
+		<SimpleData name="gdp_2013">?8,086.86</SimpleData>
+		<SimpleData name="gdp_2012">?6,852.20</SimpleData>
+		<SimpleData name="gdp_2011">?5,701.84</SimpleData>
+		<SimpleData name="gdp_2010">?4,602.16</SimpleData>
+		<SimpleData name="gdp_2009">?3,912.68</SimpleData>
+		<SimpleData name="gdp_2008">?3,561.56</SimpleData>
+		<SimpleData name="gdp_2007">?2,884.11</SimpleData>
+		<SimpleData name="gdp_2006">?2,338.98</SimpleData>
+		<SimpleData name="gdp_2005">?2,005.42</SimpleData>
+		<SimpleData name="latitude">27</SimpleData>
+		<SimpleData name="longitude">107</SimpleData>
+		<SimpleData name="desc">Guizhou, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107,27</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>yunnan</name>
+	<ExtendedData><SchemaData schemaUrl="#data">
+		<SimpleData name="Province">yunnan</SimpleData>
+		<SimpleData name="gdp_2014">?12,814.59</SimpleData>
+		<SimpleData name="gdp_2013">?11,832.31</SimpleData>
+		<SimpleData name="gdp_2012">?10,309.47</SimpleData>
+		<SimpleData name="gdp_2011">?8,893.12</SimpleData>
+		<SimpleData name="gdp_2010">?7,224.18</SimpleData>
+		<SimpleData name="gdp_2009">?6,169.75</SimpleData>
+		<SimpleData name="gdp_2008">?5,692.12</SimpleData>
+		<SimpleData name="gdp_2007">?4,772.52</SimpleData>
+		<SimpleData name="gdp_2006">?3,988.14</SimpleData>
+		<SimpleData name="gdp_2005">?3,462.73</SimpleData>
+		<SimpleData name="latitude">25</SimpleData>
+		<SimpleData name="longitude">102</SimpleData>
+		<SimpleData name="desc">Yunnan, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>102,25</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

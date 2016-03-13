@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="gdp" id="gdp">
+	<SimpleField name="province" type="string"></SimpleField>
+	<SimpleField name="2000_1" type="float"></SimpleField>
+	<SimpleField name="2001_1" type="float"></SimpleField>
+	<SimpleField name="2002_1" type="int"></SimpleField>
+	<SimpleField name="2003_1" type="float"></SimpleField>
+	<SimpleField name="2004_1" type="float"></SimpleField>
+	<SimpleField name="2005_1" type="float"></SimpleField>
+	<SimpleField name="2006_1" type="int"></SimpleField>
+	<SimpleField name="2007_1" type="float"></SimpleField>
+	<SimpleField name="2008_1" type="float"></SimpleField>
+	<SimpleField name="2009_1" type="int"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="longitude" type="float"></SimpleField>
+	<SimpleField name="desc" type="string"></SimpleField>
+	<SimpleField name="color" type="string"></SimpleField>
+	<SimpleField name="source" type="string"></SimpleField>
+	<SimpleField name="precision" type="string"></SimpleField>
+</Schema>
+<Folder><name>gdp</name>
+  <Placemark>
+	<name>neimeng</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">neimeng</SimpleData>
+		<SimpleData name="2000_1">1401.01</SimpleData>
+		<SimpleData name="2001_1">1545.5</SimpleData>
+		<SimpleData name="2002_1">950</SimpleData>
+		<SimpleData name="2003_1">2092.86</SimpleData>
+		<SimpleData name="2004_1">2700</SimpleData>
+		<SimpleData name="2005_1">3822.7</SimpleData>
+		<SimpleData name="2006_1">4790</SimpleData>
+		<SimpleData name="2007_1">6018.81</SimpleData>
+		<SimpleData name="2008_1">7600</SimpleData>
+		<SimpleData name="2009_1">9700</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">100.445882</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>100.445882,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>shanhai</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">shanhai</SimpleData>
+		<SimpleData name="2000_1">4551.45</SimpleData>
+		<SimpleData name="2001_1">4950.8</SimpleData>
+		<SimpleData name="2002_1">5400</SimpleData>
+		<SimpleData name="2003_1">6250.84</SimpleData>
+		<SimpleData name="2004_1">7450.27</SimpleData>
+		<SimpleData name="2005_1">9125</SimpleData>
+		<SimpleData name="2006_1">10297</SimpleData>
+		<SimpleData name="2007_1">12001</SimpleData>
+		<SimpleData name="2008_1">13698.15</SimpleData>
+		<SimpleData name="2009_1">14901</SimpleData>
+		<SimpleData name="latitude">31</SimpleData>
+		<SimpleData name="longitude">121</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>tianjing</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">tianjin</SimpleData>
+		<SimpleData name="2000_1">1639.36</SimpleData>
+		<SimpleData name="2001_1">1826.7</SimpleData>
+		<SimpleData name="2002_1">1900</SimpleData>
+		<SimpleData name="2003_1">2386.96</SimpleData>
+		<SimpleData name="2004_1">2931.88</SimpleData>
+		<SimpleData name="2005_1">3663.86</SimpleData>
+		<SimpleData name="2006_1">4337</SimpleData>
+		<SimpleData name="2007_1">5018.28</SimpleData>
+		<SimpleData name="2008_1">6354.38</SimpleData>
+		<SimpleData name="2009_1">7501</SimpleData>
+		<SimpleData name="latitude">39.78373</SimpleData>
+		<SimpleData name="longitude">117</SimpleData>
+		<SimpleData name="desc">US</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">country</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>117.0,39.78373</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>xinjiang</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">xinjiang</SimpleData>
+		<SimpleData name="2000_1">1364.36</SimpleData>
+		<SimpleData name="2001_1">1483.5</SimpleData>
+		<SimpleData name="2002_1">1600</SimpleData>
+		<SimpleData name="2003_1">1875</SimpleData>
+		<SimpleData name="2004_1">2203</SimpleData>
+		<SimpleData name="2005_1">2680</SimpleData>
+		<SimpleData name="2006_1">3063</SimpleData>
+		<SimpleData name="2007_1">3494.42</SimpleData>
+		<SimpleData name="2008_1">4203.41</SimpleData>
+		<SimpleData name="2009_1">4270</SimpleData>
+		<SimpleData name="latitude">41.5</SimpleData>
+		<SimpleData name="longitude">85.5</SimpleData>
+		<SimpleData name="desc">Xinjiang, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>85.5,41.5</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>xizang</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">xizang</SimpleData>
+		<SimpleData name="2000_1">117.46</SimpleData>
+		<SimpleData name="2001_1">137.86</SimpleData>
+		<SimpleData name="2002_1">150</SimpleData>
+		<SimpleData name="2003_1">186.69</SimpleData>
+		<SimpleData name="2004_1">200</SimpleData>
+		<SimpleData name="2005_1">250.4</SimpleData>
+		<SimpleData name="2006_1">290</SimpleData>
+		<SimpleData name="2007_1">342.19</SimpleData>
+		<SimpleData name="2008_1">392</SimpleData>
+		<SimpleData name="2009_1">437</SimpleData>
+		<SimpleData name="latitude">32</SimpleData>
+		<SimpleData name="longitude">90</SimpleData>
+		<SimpleData name="desc">Tibet Autonomous Region, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>90,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>qinghai</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">qinghai</SimpleData>
+		<SimpleData name="2000_1">263.59</SimpleData>
+		<SimpleData name="2001_1">300.8</SimpleData>
+		<SimpleData name="2002_1">300</SimpleData>
+		<SimpleData name="2003_1">398</SimpleData>
+		<SimpleData name="2004_1">465.73</SimpleData>
+		<SimpleData name="2005_1">543.2</SimpleData>
+		<SimpleData name="2006_1">641</SimpleData>
+		<SimpleData name="2007_1">760.96</SimpleData>
+		<SimpleData name="2008_1">960</SimpleData>
+		<SimpleData name="2009_1">1081</SimpleData>
+		<SimpleData name="latitude">36</SimpleData>
+		<SimpleData name="longitude">96</SimpleData>
+		<SimpleData name="desc">Qinghai, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>96,36</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>gansu</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">gansu</SimpleData>
+		<SimpleData name="2000_1">983.36</SimpleData>
+		<SimpleData name="2001_1">1074.9</SimpleData>
+		<SimpleData name="2002_1">1100</SimpleData>
+		<SimpleData name="2003_1">1301.1</SimpleData>
+		<SimpleData name="2004_1">1540</SimpleData>
+		<SimpleData name="2005_1">1894</SimpleData>
+		<SimpleData name="2006_1">2246</SimpleData>
+		<SimpleData name="2007_1">2699.2</SimpleData>
+		<SimpleData name="2008_1">3100</SimpleData>
+		<SimpleData name="2009_1">3380</SimpleData>
+		<SimpleData name="latitude">38</SimpleData>
+		<SimpleData name="longitude">102</SimpleData>
+		<SimpleData name="desc">Gansu, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>102,38</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>yunnan</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">yunnan</SimpleData>
+		<SimpleData name="2000_1">1955.09</SimpleData>
+		<SimpleData name="2001_1">2077.5</SimpleData>
+		<SimpleData name="2002_1">2300</SimpleData>
+		<SimpleData name="2003_1">2458</SimpleData>
+		<SimpleData name="2004_1">2959.48</SimpleData>
+		<SimpleData name="2005_1">3400</SimpleData>
+		<SimpleData name="2006_1">4001</SimpleData>
+		<SimpleData name="2007_1">4721.77</SimpleData>
+		<SimpleData name="2008_1">5700.1</SimpleData>
+		<SimpleData name="2009_1">6168</SimpleData>
+		<SimpleData name="latitude">25</SimpleData>
+		<SimpleData name="longitude">102</SimpleData>
+		<SimpleData name="desc">Yunnan, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>102,25</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>sichuan</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">sichuan</SimpleData>
+		<SimpleData name="2000_1">4010.25</SimpleData>
+		<SimpleData name="2001_1">4421.8</SimpleData>
+		<SimpleData name="2002_1">4800</SimpleData>
+		<SimpleData name="2003_1">5456.2</SimpleData>
+		<SimpleData name="2004_1">6556</SimpleData>
+		<SimpleData name="2005_1">7385.1</SimpleData>
+		<SimpleData name="2006_1">8367</SimpleData>
+		<SimpleData name="2007_1">10505.3</SimpleData>
+		<SimpleData name="2008_1">12506.3</SimpleData>
+		<SimpleData name="2009_1">14151</SimpleData>
+		<SimpleData name="latitude">30.5</SimpleData>
+		<SimpleData name="longitude">102.5</SimpleData>
+		<SimpleData name="desc">Sichuan, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>102.5,30.5</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ningxia</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">ningxia</SimpleData>
+		<SimpleData name="2000_1">265.57</SimpleData>
+		<SimpleData name="2001_1">298.1</SimpleData>
+		<SimpleData name="2002_1">330</SimpleData>
+		<SimpleData name="2003_1">387</SimpleData>
+		<SimpleData name="2004_1">460.3</SimpleData>
+		<SimpleData name="2005_1">525</SimpleData>
+		<SimpleData name="2006_1">707</SimpleData>
+		<SimpleData name="2007_1">834.16</SimpleData>
+		<SimpleData name="2008_1">1070</SimpleData>
+		<SimpleData name="2009_1">1335</SimpleData>
+		<SimpleData name="latitude">37</SimpleData>
+		<SimpleData name="longitude">106</SimpleData>
+		<SimpleData name="desc">Ningxia Hui, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>106,37</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>guizhou</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">guizhou</SimpleData>
+		<SimpleData name="2000_1">993.53</SimpleData>
+		<SimpleData name="2001_1">1082.2</SimpleData>
+		<SimpleData name="2002_1">1180</SimpleData>
+		<SimpleData name="2003_1">1344.41</SimpleData>
+		<SimpleData name="2004_1">1591.9</SimpleData>
+		<SimpleData name="2005_1">1910</SimpleData>
+		<SimpleData name="2006_1">2259</SimpleData>
+		<SimpleData name="2007_1">2710.28</SimpleData>
+		<SimpleData name="2008_1">3350</SimpleData>
+		<SimpleData name="2009_1">3887</SimpleData>
+		<SimpleData name="latitude">27</SimpleData>
+		<SimpleData name="longitude">107</SimpleData>
+		<SimpleData name="desc">Guizhou, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107,27</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>chongqing</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">chongqing</SimpleData>
+		<SimpleData name="2000_1">1589.34</SimpleData>
+		<SimpleData name="2001_1">1749.8</SimpleData>
+		<SimpleData name="2002_1">1800</SimpleData>
+		<SimpleData name="2003_1">2118.38</SimpleData>
+		<SimpleData name="2004_1">2650</SimpleData>
+		<SimpleData name="2005_1">3069.1</SimpleData>
+		<SimpleData name="2006_1">3840</SimpleData>
+		<SimpleData name="2007_1">4111.8</SimpleData>
+		<SimpleData name="2008_1">5098</SimpleData>
+		<SimpleData name="2009_1">6527</SimpleData>
+		<SimpleData name="latitude">30.05518</SimpleData>
+		<SimpleData name="longitude">107.874871</SimpleData>
+		<SimpleData name="desc">Chongqing, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>107.874871,30.05518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>shanxi</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">shanxi</SimpleData>
+		<SimpleData name="2000_1">1643.81</SimpleData>
+		<SimpleData name="2001_1">1774.6</SimpleData>
+		<SimpleData name="2002_1">2000</SimpleData>
+		<SimpleData name="2003_1">2445</SimpleData>
+		<SimpleData name="2004_1">3042.4</SimpleData>
+		<SimpleData name="2005_1">4000</SimpleData>
+		<SimpleData name="2006_1">4746</SimpleData>
+		<SimpleData name="2007_1">5696.2</SimpleData>
+		<SimpleData name="2008_1">7000</SimpleData>
+		<SimpleData name="2009_1">7100</SimpleData>
+		<SimpleData name="latitude">37</SimpleData>
+		<SimpleData name="longitude">108</SimpleData>
+		<SimpleData name="desc">Shanxi, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>108,37</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>guangxi</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">guangxi</SimpleData>
+		<SimpleData name="2000_1">2050.14</SimpleData>
+		<SimpleData name="2001_1">2231.2</SimpleData>
+		<SimpleData name="2002_1">2200</SimpleData>
+		<SimpleData name="2003_1">2733.39</SimpleData>
+		<SimpleData name="2004_1">3320.1</SimpleData>
+		<SimpleData name="2005_1">4063.3</SimpleData>
+		<SimpleData name="2006_1">4802</SimpleData>
+		<SimpleData name="2007_1">5885.88</SimpleData>
+		<SimpleData name="2008_1">7171.58</SimpleData>
+		<SimpleData name="2009_1">7700</SimpleData>
+		<SimpleData name="latitude">24</SimpleData>
+		<SimpleData name="longitude">109</SimpleData>
+		<SimpleData name="desc">Guangxi, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109,24</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>hainan</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">hainan</SimpleData>
+		<SimpleData name="2000_1">518.48</SimpleData>
+		<SimpleData name="2001_1">545.3</SimpleData>
+		<SimpleData name="2002_1">600</SimpleData>
+		<SimpleData name="2003_1">698.9</SimpleData>
+		<SimpleData name="2004_1">790.12</SimpleData>
+		<SimpleData name="2005_1">903.6</SimpleData>
+		<SimpleData name="2006_1">1052</SimpleData>
+		<SimpleData name="2007_1">1229.64</SimpleData>
+		<SimpleData name="2008_1">1466</SimpleData>
+		<SimpleData name="2009_1">1647</SimpleData>
+		<SimpleData name="latitude">19.2</SimpleData>
+		<SimpleData name="longitude">109.6</SimpleData>
+		<SimpleData name="desc">Hainan, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.6,19.2</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>hubei</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">hubei</SimpleData>
+		<SimpleData name="2000_1">3691.88</SimpleData>
+		<SimpleData name="2001_1">3983</SimpleData>
+		<SimpleData name="2002_1">4200</SimpleData>
+		<SimpleData name="2003_1">4633</SimpleData>
+		<SimpleData name="2004_1">5612.26</SimpleData>
+		<SimpleData name="2005_1">6237</SimpleData>
+		<SimpleData name="2006_1">7493</SimpleData>
+		<SimpleData name="2007_1">9145</SimpleData>
+		<SimpleData name="2008_1">11156.64</SimpleData>
+		<SimpleData name="2009_1">12930</SimpleData>
+		<SimpleData name="latitude">31</SimpleData>
+		<SimpleData name="longitude">112</SimpleData>
+		<SimpleData name="desc">Hubei, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>112,31</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>shanxi</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">shanxi</SimpleData>
+		<SimpleData name="2000_1">1660.92</SimpleData>
+		<SimpleData name="2001_1">1841.2</SimpleData>
+		<SimpleData name="2002_1">2000</SimpleData>
+		<SimpleData name="2003_1">2398.58</SimpleData>
+		<SimpleData name="2004_1">2883.5</SimpleData>
+		<SimpleData name="2005_1">3674.75</SimpleData>
+		<SimpleData name="2006_1">4382</SimpleData>
+		<SimpleData name="2007_1">5369.85</SimpleData>
+		<SimpleData name="2008_1">6851.32</SimpleData>
+		<SimpleData name="2009_1">8187</SimpleData>
+		<SimpleData name="latitude">37</SimpleData>
+		<SimpleData name="longitude">112</SimpleData>
+		<SimpleData name="desc">Shanxi, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>112,37</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>hunan</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">hunan</SimpleData>
+		<SimpleData name="2000_1">4276.32</SimpleData>
+		<SimpleData name="2001_1">4662.3</SimpleData>
+		<SimpleData name="2002_1">5000</SimpleData>
+		<SimpleData name="2003_1">5395.95</SimpleData>
+		<SimpleData name="2004_1">6320</SimpleData>
+		<SimpleData name="2005_1">6000</SimpleData>
+		<SimpleData name="2006_1">7497</SimpleData>
+		<SimpleData name="2007_1">9006.2</SimpleData>
+		<SimpleData name="2008_1">11330.38</SimpleData>
+		<SimpleData name="2009_1">12832</SimpleData>
+		<SimpleData name="latitude">27.999588</SimpleData>
+		<SimpleData name="longitude">112.009538</SimpleData>
+		<SimpleData name="desc">Hunan, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>112.009538,27.999588</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>guangdong</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">guangdong</SimpleData>
+		<SimpleData name="2000_1">9662.23</SimpleData>
+		<SimpleData name="2001_1">10556.5</SimpleData>
+		<SimpleData name="2002_1">11000</SimpleData>
+		<SimpleData name="2003_1">13788.9</SimpleData>
+		<SimpleData name="2004_1">16040</SimpleData>
+		<SimpleData name="2005_1">21701.28</SimpleData>
+		<SimpleData name="2006_1">25969</SimpleData>
+		<SimpleData name="2007_1">30673</SimpleData>
+		<SimpleData name="2008_1">35696</SimpleData>
+		<SimpleData name="2009_1">39082</SimpleData>
+		<SimpleData name="latitude">23.135769</SimpleData>
+		<SimpleData name="longitude">113.198269</SimpleData>
+		<SimpleData name="desc">Guangdong, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>113.198269,23.135769</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>henan</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">henan</SimpleData>
+		<SimpleData name="2000_1">5137.66</SimpleData>
+		<SimpleData name="2001_1">5645</SimpleData>
+		<SimpleData name="2002_1">6000</SimpleData>
+		<SimpleData name="2003_1">7074.09</SimpleData>
+		<SimpleData name="2004_1">8815.09</SimpleData>
+		<SimpleData name="2005_1">10535.2</SimpleData>
+		<SimpleData name="2006_1">4356</SimpleData>
+		<SimpleData name="2007_1">15220</SimpleData>
+		<SimpleData name="2008_1">18200</SimpleData>
+		<SimpleData name="2009_1">19367</SimpleData>
+		<SimpleData name="latitude">34</SimpleData>
+		<SimpleData name="longitude">114</SimpleData>
+		<SimpleData name="desc">Henan, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>114,34</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>hebei</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">hebei</SimpleData>
+		<SimpleData name="2000_1">5088.96</SimpleData>
+		<SimpleData name="2001_1">5577.7</SimpleData>
+		<SimpleData name="2002_1">5500</SimpleData>
+		<SimpleData name="2003_1">7060.4</SimpleData>
+		<SimpleData name="2004_1">8836.9</SimpleData>
+		<SimpleData name="2005_1">10116.6</SimpleData>
+		<SimpleData name="2006_1">4256</SimpleData>
+		<SimpleData name="2007_1">13863.5</SimpleData>
+		<SimpleData name="2008_1">16188.6</SimpleData>
+		<SimpleData name="2009_1">17027</SimpleData>
+		<SimpleData name="latitude">39</SimpleData>
+		<SimpleData name="longitude">116</SimpleData>
+		<SimpleData name="desc">Hebei, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116,39</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>jiangxi</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">jiangxi</SimpleData>
+		<SimpleData name="2000_1">2003.07</SimpleData>
+		<SimpleData name="2001_1">2173.8</SimpleData>
+		<SimpleData name="2002_1">2200</SimpleData>
+		<SimpleData name="2003_1">2825.43</SimpleData>
+		<SimpleData name="2004_1">3500</SimpleData>
+		<SimpleData name="2005_1">4070</SimpleData>
+		<SimpleData name="2006_1">4746</SimpleData>
+		<SimpleData name="2007_1">5469</SimpleData>
+		<SimpleData name="2008_1">6480</SimpleData>
+		<SimpleData name="2009_1">7589</SimpleData>
+		<SimpleData name="latitude">28</SimpleData>
+		<SimpleData name="longitude">116</SimpleData>
+		<SimpleData name="desc">Jiangxi, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116,28</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>beijing</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">beijing</SimpleData>
+		<SimpleData name="2000_1">2478.76</SimpleData>
+		<SimpleData name="2001_1">2817.6</SimpleData>
+		<SimpleData name="2002_1">3130</SimpleData>
+		<SimpleData name="2003_1">3202.21</SimpleData>
+		<SimpleData name="2004_1">4283.3</SimpleData>
+		<SimpleData name="2005_1">6814.5</SimpleData>
+		<SimpleData name="2006_1">7720</SimpleData>
+		<SimpleData name="2007_1">9006.2</SimpleData>
+		<SimpleData name="2008_1">10488</SimpleData>
+		<SimpleData name="2009_1">11866</SimpleData>
+		<SimpleData name="latitude">40.190632</SimpleData>
+		<SimpleData name="longitude">116.412144</SimpleData>
+		<SimpleData name="desc">Beijing, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116.412144,40.190632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>anhui</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">anhui</SimpleData>
+		<SimpleData name="2000_1">3038.24</SimpleData>
+		<SimpleData name="2001_1">3290.1</SimpleData>
+		<SimpleData name="2002_1">3500</SimpleData>
+		<SimpleData name="2003_1">3973.2</SimpleData>
+		<SimpleData name="2004_1">4812.7</SimpleData>
+		<SimpleData name="2005_1">5375.8</SimpleData>
+		<SimpleData name="2006_1">6142</SimpleData>
+		<SimpleData name="2007_1">7345.7</SimpleData>
+		<SimpleData name="2008_1">8874.2</SimpleData>
+		<SimpleData name="2009_1">10053</SimpleData>
+		<SimpleData name="latitude">32</SimpleData>
+		<SimpleData name="longitude">117</SimpleData>
+		<SimpleData name="desc">Anhui, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>117,32</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>fujian</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">fujian</SimpleData>
+		<SimpleData name="2000_1">3920.07</SimpleData>
+		<SimpleData name="2001_1">4258.4</SimpleData>
+		<SimpleData name="2002_1">4100</SimpleData>
+		<SimpleData name="2003_1">5242.07</SimpleData>
+		<SimpleData name="2004_1">6063</SimpleData>
+		<SimpleData name="2005_1">6487</SimpleData>
+		<SimpleData name="2006_1">7501</SimpleData>
+		<SimpleData name="2007_1">9160.14</SimpleData>
+		<SimpleData name="2008_1">10863</SimpleData>
+		<SimpleData name="2009_1">11950</SimpleData>
+		<SimpleData name="latitude">26.545</SimpleData>
+		<SimpleData name="longitude">117.842778</SimpleData>
+		<SimpleData name="desc">Fujian, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>117.842778,26.545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>shandong</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">shandong</SimpleData>
+		<SimpleData name="2000_1">8542.44</SimpleData>
+		<SimpleData name="2001_1">9438.3</SimpleData>
+		<SimpleData name="2002_1">10500</SimpleData>
+		<SimpleData name="2003_1">10378</SimpleData>
+		<SimpleData name="2004_1">15490.7</SimpleData>
+		<SimpleData name="2005_1">18468.3</SimpleData>
+		<SimpleData name="2006_1">21700</SimpleData>
+		<SimpleData name="2007_1">25887.7</SimpleData>
+		<SimpleData name="2008_1">31072.1</SimpleData>
+		<SimpleData name="2009_1">33805</SimpleData>
+		<SimpleData name="latitude">36</SimpleData>
+		<SimpleData name="longitude">119</SimpleData>
+		<SimpleData name="desc">Shandong, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>119,36</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>jiangsu</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">jiangsu</SimpleData>
+		<SimpleData name="2000_1">8582.73</SimpleData>
+		<SimpleData name="2001_1">9514.6</SimpleData>
+		<SimpleData name="2002_1">10000</SimpleData>
+		<SimpleData name="2003_1">12098.8</SimpleData>
+		<SimpleData name="2004_1">15000</SimpleData>
+		<SimpleData name="2005_1">18272.12</SimpleData>
+		<SimpleData name="2006_1">21548</SimpleData>
+		<SimpleData name="2007_1">25560.1</SimpleData>
+		<SimpleData name="2008_1">31000</SimpleData>
+		<SimpleData name="2009_1">34061</SimpleData>
+		<SimpleData name="latitude">33</SimpleData>
+		<SimpleData name="longitude">120</SimpleData>
+		<SimpleData name="desc">Jiangsu, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120,33</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>zhejiang</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">zhejiang</SimpleData>
+		<SimpleData name="2000_1">6036.34</SimpleData>
+		<SimpleData name="2001_1">6700</SimpleData>
+		<SimpleData name="2002_1">7400</SimpleData>
+		<SimpleData name="2003_1">9798</SimpleData>
+		<SimpleData name="2004_1">11243</SimpleData>
+		<SimpleData name="2005_1">13365</SimpleData>
+		<SimpleData name="2006_1">15649</SimpleData>
+		<SimpleData name="2007_1">18638.4</SimpleData>
+		<SimpleData name="2008_1">21486.9</SimpleData>
+		<SimpleData name="2009_1">22832</SimpleData>
+		<SimpleData name="latitude">29</SimpleData>
+		<SimpleData name="longitude">120</SimpleData>
+		<SimpleData name="desc">Zhejiang, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>120,29</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>liaoning</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">liaoning</SimpleData>
+		<SimpleData name="2000_1">4669.06</SimpleData>
+		<SimpleData name="2001_1">5033.1</SimpleData>
+		<SimpleData name="2002_1">4600</SimpleData>
+		<SimpleData name="2003_1">6030.6</SimpleData>
+		<SimpleData name="2004_1">6872.65</SimpleData>
+		<SimpleData name="2005_1">7920</SimpleData>
+		<SimpleData name="2006_1">9257</SimpleData>
+		<SimpleData name="2007_1">11021.73</SimpleData>
+		<SimpleData name="2008_1">13461.6</SimpleData>
+		<SimpleData name="2009_1">15065</SimpleData>
+		<SimpleData name="latitude">40.99752</SimpleData>
+		<SimpleData name="longitude">122.995547</SimpleData>
+		<SimpleData name="desc">Liaoning, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>122.995547,40.99752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>jilin</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">jilin</SimpleData>
+		<SimpleData name="2000_1">1821.19</SimpleData>
+		<SimpleData name="2001_1">2032.5</SimpleData>
+		<SimpleData name="2002_1">2100</SimpleData>
+		<SimpleData name="2003_1">2521</SimpleData>
+		<SimpleData name="2004_1">2958.21</SimpleData>
+		<SimpleData name="2005_1">3614.92</SimpleData>
+		<SimpleData name="2006_1">4249</SimpleData>
+		<SimpleData name="2007_1">5226.1</SimpleData>
+		<SimpleData name="2008_1">6424</SimpleData>
+		<SimpleData name="2009_1">7203</SimpleData>
+		<SimpleData name="latitude">42.999503</SimpleData>
+		<SimpleData name="longitude">125.981605</SimpleData>
+		<SimpleData name="desc">Jilin, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>125.981605,42.999503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>heilongjiang</name>
+	<ExtendedData><SchemaData schemaUrl="#gdp">
+		<SimpleData name="province">heilongjiang</SimpleData>
+		<SimpleData name="2000_1">3253</SimpleData>
+		<SimpleData name="2001_1">3561</SimpleData>
+		<SimpleData name="2002_1">2200</SimpleData>
+		<SimpleData name="2003_1">4433</SimpleData>
+		<SimpleData name="2004_1">5303</SimpleData>
+		<SimpleData name="2005_1">5510</SimpleData>
+		<SimpleData name="2006_1">6217</SimpleData>
+		<SimpleData name="2007_1">7077.2</SimpleData>
+		<SimpleData name="2008_1">7856</SimpleData>
+		<SimpleData name="2009_1">8288</SimpleData>
+		<SimpleData name="latitude">48.000005</SimpleData>
+		<SimpleData name="longitude">127.999992</SimpleData>
+		<SimpleData name="desc">Heilongjiang, CN</SimpleData>
+		<SimpleData name="source">MapQuest Open</SimpleData>
+		<SimpleData name="precision">state/province</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>127.999992,48.000005</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

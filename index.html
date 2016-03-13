@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Gross Domestic Product of China</title>
+
+		<!--put your external stylesheet links here-->
+		<link rel="stylesheet" href="lib/leaflet/leaflet.css" />
+		<link rel="stylesheet" href="css/style.css">
+		<!--[if IE<9]>
+			<link rel="stylesheet" href="css/style.ie.css">
+		<![endif]-->
+	</head>
+
+	<body>
+		<!--put your initial page content here-->
+		<nav id='menu-ui' class='menu-ui'>
+	    <a href='#' id='filter-all'>all</a>
+	    <a href='#' id='filter-good'>slow</a>
+	    <a href='#' id='filter-bad'>fast</a>
+		</nav>
+		<div id="wrapper" >
+		<div class="title">Gross Domestic Product (GDP) of China between 2000-2009 </div>
+
+		<p class="description">
+			This map shows the economic boom of China in the most significant years, before the Great Regression. </br></br>
+			"As the chart above shows there have been some steep inclines and drops in China's GDP growth rate with the effect of the global recession showing in 2008 when the annual rate dropped to 9.6% compared to 14.2% during the previous year."</br></br>
+			"However,China's GDP is controversial, not least because it's measured differently to other some countries. A Wikileaks US Embassy cable revealed that Liaoning Party Secretary Li Keqiang had called the GDP measure "man made", adding further to the belief by some that it is inaccurate and unreliable.""
+		</p>
+		<p class="source">Data source: </br>
+        <a href="http://www.stats.gov.cn/english/">National Bureau of Statistics of China</a></br></br>
+        Text source: </br>
+        <a href="http://www.theguardian.com/news/datablog/2012/mar/23/china-gdp-since-1980">China GDP: how it has changed since 1980</a>
+		</p>
+
+
+		</div>
+		<div id="map"></div>
+		<!--you can also use this space for internal scripts or stylesheets;
+		place these within <script> or <style> tags-->
+
+		<!--put your external script links here-->
+		<script type="text/javascript" src="lib/leaflet/leaflet.js"></script>
+		<script src='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.js'></script>
+		<script type="text/javascript" src="lib/jquery-1.12.0.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+
+		<!-- <script type="text/javascript" src="js/geojson.js"></script> -->
+		<!-- <script type="text/javascript" src="js/tutorials.js"></script> -->
+	</body>
+</html>

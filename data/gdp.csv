@@ -1,0 +1,32 @@
+province,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,latitude,longitude,name,desc,color,source,precision
+neimeng,1401.01,1545.5,950,2092.86,2700,3822.7,4790,6018.81,7600,9700,39.78373,100.445882,neimeng,US,,MapQuest Open,country
+shanhai,4551.45,4950.8,5400,6250.84,7450.27,9125,10297,12001,13698.15,14901,31,121,shanhai,US,,MapQuest Open,country
+tianjin,1639.36,1826.7,1900,2386.96,2931.88,3663.86,4337,5018.28,6354.38,7501,39.78373,117,tianjing,US,,MapQuest Open,country
+xinjiang,1364.36,1483.5,1600,1875,2203,2680,3063,3494.42,4203.41,4270,41.5,85.5,xinjiang,"Xinjiang, CN",,MapQuest Open,state/province
+xizang,117.46,137.86,150,186.69,200,250.4,290,342.19,392,437,32,90,xizang,"Tibet Autonomous Region, CN",,MapQuest Open,state/province
+qinghai,263.59,300.8,300,398,465.73,543.2,641,760.96,960,1081,36,96,qinghai,"Qinghai, CN",,MapQuest Open,state/province
+gansu,983.36,1074.9,1100,1301.1,1540,1894,2246,2699.2,3100,3380,38,102,gansu,"Gansu, CN",,MapQuest Open,state/province
+yunnan,1955.09,2077.5,2300,2458,2959.48,3400,4001,4721.77,5700.1,6168,25,102,yunnan,"Yunnan, CN",,MapQuest Open,state/province
+sichuan,4010.25,4421.8,4800,5456.2,6556,7385.1,8367,10505.3,12506.3,14151,30.5,102.5,sichuan,"Sichuan, CN",,MapQuest Open,state/province
+ningxia,265.57,298.1,330,387,460.3,525,707,834.16,1070,1335,37,106,ningxia,"Ningxia Hui, CN",,MapQuest Open,state/province
+guizhou,993.53,1082.2,1180,1344.41,1591.9,1910,2259,2710.28,3350,3887,27,107,guizhou,"Guizhou, CN",,MapQuest Open,state/province
+chongqing,1589.34,1749.8,1800,2118.38,2650,3069.1,3840,4111.8,5098,6527,30.05518,107.874871,chongqing,"Chongqing, CN",,MapQuest Open,state/province
+shanxi,1643.81,1774.6,2000,2445,3042.4,4000,4746,5696.2,7000,7100,37,108,shanxi,"Shanxi, CN",,MapQuest Open,state/province
+guangxi,2050.14,2231.2,2200,2733.39,3320.1,4063.3,4802,5885.88,7171.58,7700,24,109,guangxi,"Guangxi, CN",,MapQuest Open,state/province
+hainan,518.48,545.3,600,698.9,790.12,903.6,1052,1229.64,1466,1647,19.2,109.6,hainan,"Hainan, CN",,MapQuest Open,state/province
+hubei,3691.88,3983,4200,4633,5612.26,6237,7493,9145,11156.64,12930,31,112,hubei,"Hubei, CN",,MapQuest Open,state/province
+shanxi,1660.92,1841.2,2000,2398.58,2883.5,3674.75,4382,5369.85,6851.32,8187,37,112,shanxi,"Shanxi, CN",,MapQuest Open,state/province
+hunan,4276.32,4662.3,5000,5395.95,6320,6000,7497,9006.2,11330.38,12832,27.999588,112.009538,hunan,"Hunan, CN",,MapQuest Open,state/province
+guangdong,9662.23,10556.5,11000,13788.9,16040,21701.28,25969,30673,35696,39082,23.135769,113.198269,guangdong,"Guangdong, CN",,MapQuest Open,state/province
+henan,5137.66,5645,6000,7074.09,8815.09,10535.2,4356,15220,18200,19367,34,114,henan,"Henan, CN",,MapQuest Open,state/province
+hebei,5088.96,5577.7,5500,7060.4,8836.9,10116.6,4256,13863.5,16188.6,17027,39,116,hebei,"Hebei, CN",,MapQuest Open,state/province
+jiangxi,2003.07,2173.8,2200,2825.43,3500,4070,4746,5469,6480,7589,28,116,jiangxi,"Jiangxi, CN",,MapQuest Open,state/province
+beijing,2478.76,2817.6,3130,3202.21,4283.3,6814.5,7720,9006.2,10488,11866,40.190632,116.412144,beijing,"Beijing, CN",,MapQuest Open,state/province
+anhui,3038.24,3290.1,3500,3973.2,4812.7,5375.8,6142,7345.7,8874.2,10053,32,117,anhui,"Anhui, CN",,MapQuest Open,state/province
+fujian,3920.07,4258.4,4100,5242.07,6063,6487,7501,9160.14,10863,11950,26.545,117.842778,fujian,"Fujian, CN",,MapQuest Open,state/province
+shandong,8542.44,9438.3,10500,10378,15490.7,18468.3,21700,25887.7,31072.1,33805,36,119,shandong,"Shandong, CN",,MapQuest Open,state/province
+jiangsu,8582.73,9514.6,10000,12098.8,15000,18272.12,21548,25560.1,31000,34061,33,120,jiangsu,"Jiangsu, CN",,MapQuest Open,state/province
+zhejiang,6036.34,6700,7400,9798,11243,13365,15649,18638.4,21486.9,22832,29,120,zhejiang,"Zhejiang, CN",,MapQuest Open,state/province
+liaoning,4669.06,5033.1,4600,6030.6,6872.65,7920,9257,11021.73,13461.6,15065,40.99752,122.995547,liaoning,"Liaoning, CN",,MapQuest Open,state/province
+jilin,1821.19,2032.5,2100,2521,2958.21,3614.92,4249,5226.1,6424,7203,42.999503,125.981605,jilin,"Jilin, CN",,MapQuest Open,state/province
+heilongjiang,3253,3561,2200,4433,5303,5510,6217,7077.2,7856,8288,48.000005,127.999992,heilongjiang,"Heilongjiang, CN",,MapQuest Open,state/province
